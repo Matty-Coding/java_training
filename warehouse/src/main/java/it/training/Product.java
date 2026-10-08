@@ -1,4 +1,4 @@
-package it.training.app;
+package it.training;
 
 public class Product {
     private String id;

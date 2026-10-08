@@ -1,4 +1,4 @@
-package it.training.app;
+package it.training;
 
 import java.util.ArrayList;
 import java.util.Optional;
